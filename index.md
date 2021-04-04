@@ -24,7 +24,8 @@
 (causes camera stream to take up entire screen on IOS devices with screen aspect ratios different from their camera aspect ratio)
 
 **Favorite Quote:**
-> Take care not to be Caesarified, or dyed in purple: it happens. So keep yourself simple, good, pure, serious, unpretentious, a friend of justice, God-fearing, kind, full of affection, strong for yor proper work. Strive hard to remain the same man that philosophy wished to make you. Revere the gods, look after men. Life is short. The one harvest of existence on earth is a godly habit of mind and social action. - Marcus Aurelius
+> Take care not to be Caesarified, or dyed in purple: it happens. So keep yourself simple, good, pure, serious, unpretentious, a friend of justice, God-fearing, kind, full of affection, strong for yor proper work. Strive hard to remain the same man that philosophy wished to make you. Revere the gods, look after men. Life is short. The one harvest of existence on earth is a godly habit of mind and social action. 
+>- Marcus Aurelius
 
 #### FoodSelect 
 
