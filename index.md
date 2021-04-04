@@ -1,7 +1,8 @@
 ![me](images/profile_square.png)
+
 # Matthew Larkins 
 
-#### Student at UC San Diego
+*B.S. Computer Engineering Student at UC San Diego*
 
 ###### Favorite Programming Languages:
 
