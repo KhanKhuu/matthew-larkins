@@ -40,10 +40,13 @@ Landing page for the FoodSelect app
 #### PiTank
 
 A raspberry pi-powered rover with an iOS app that wife and I can use to drive around our home and view the video stream
+![view_of_stream](images/view_of_stream.gif)
+![view_of_tank](images/view_of_tank.gif)
+
 
 #### EyeSaver
 
-One of the earliest projects using the OpenCV AIKit (OAK) module. Uses the OAK camera to estimate a users gaze and determine whether they are looking at their computer screen or not, sending an alert if they have been looking for too long and need to take a break.
+One of the earliest projects using the OpenCV AIKit (OAK) module. Uses the OAK camera to estimate a users gaze and determine whether they are looking at their computer screen or not, sending an alert if they have been looking for too long and need to take a break. This project won the Most Tachnically Advanced Project award in the IEEE @ UCSD Winter 2021 Quarterly Project program.
 
 ![gaze_closeup](https://user-images.githubusercontent.com/33473815/110545046-6971e180-80e1-11eb-9a91-76da40d19086.gif)
 
