@@ -4,9 +4,9 @@
 
 ###### Favorite Programming Languages:
 
-- C++
-- Swift
-- Python
+- C++ ([link](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=c%2B%2B) to my public projects that use C++)
+- Swift ([link](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=swift) to my public projects that use Swift)
+- Python ([link](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=python) to my public projects that use Python)
 
 ###### Top 5 Projects I am Most Proud of:
 1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
