@@ -49,3 +49,10 @@ One of the earliest projects using the OpenCV AIKit (OAK) module. Uses the OAK c
 
 Research project with Dr. Talita Perciano at Lawrence Berkeley National Laboratory. This project adapts the MPI-PMRF framework to the task of denoising large images, e.g. material sample images from beamline 8.3.2 at the Advanced Light Source user facility at Berkeley Lab.
 
+## Plans before graduation:
+- [x] Get research experience
+- [x] Release an app and try hand at a startup
+- [x] Select and apply for Masters program (M.S. Signal & Image Processing, starting Spring 2022)
+- [] Get industry experience (interning at Microsoft this Fall)
+- [] Take an internship with a local San Diego tech company (looking at Qualcomm, Apple, Illumina, etc.)
+- [] Get hired on with a San Diego tech company
