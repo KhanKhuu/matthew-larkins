@@ -17,6 +17,11 @@
 4) [EyeSaver](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#eyesaver)
 5) [PMRF-D](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pmrf-d)
 
+###### Favorite Line of Code:
+`previewView.videoPreviewLayer.videoGravity = .resizeAspectFill`
+
+(causes camera stream to take up entire screen on IOS devices with screen aspect ratios different from their camera aspect ratio)
+
 #### FoodSelect 
 
 An app that helps users avoid toxic additives in food using their phone cameras and ingredients lists or UPC codes on food packages.
