@@ -11,6 +11,7 @@
 - [Python](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=python) (my public repos that use Python)
 
 **Top 5 Projects I am Most Proud of:**
+
 1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
 2) [FoodSelect.io](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselectio)
 3) [PiTank](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pitank)
@@ -18,6 +19,7 @@
 5) [PMRF-D](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pmrf-d)
 
 **Favorite Line of Code:**
+
 `previewView.videoPreviewLayer.videoGravity = .resizeAspectFill`
 (causes camera stream to take up entire screen on IOS devices with screen aspect ratios different from their camera aspect ratio)
 
