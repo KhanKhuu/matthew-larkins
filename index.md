@@ -20,7 +20,7 @@
 >
 >\- Marcus Aurelius
 
-**Top 5 Projects I am Most Proud of:**
+### Top 5 Projects I am Most Proud of:
 
 1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
 2) [FoodSelect.io](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselectio)
@@ -49,7 +49,7 @@ One of the earliest projects using the OpenCV AIKit (OAK) module. Uses the OAK c
 
 Research project with Dr. Talita Perciano at Lawrence Berkeley National Laboratory. This project adapts the MPI-PMRF framework to the task of denoising large images, e.g. material sample images from beamline 8.3.2 at the Advanced Light Source user facility at Berkeley Lab.
 
-## Plans before graduation:
+### Plans before graduation:
 - [x] Get research experience
 - [x] Release an app and try hand at a startup
 - [x] Select and apply for Masters program (M.S. Signal & Image Processing, starting Spring 2022)
