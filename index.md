@@ -45,6 +45,8 @@ A raspberry pi-powered rover with an iOS app that wife and I can use to drive ar
 
 One of the earliest projects using the OpenCV AIKit (OAK) module. Uses the OAK camera to estimate a users gaze and determine whether they are looking at their computer screen or not, sending an alert if they have been looking for too long and need to take a break.
 
+![gaze_closeup](https://user-images.githubusercontent.com/33473815/110545046-6971e180-80e1-11eb-9a91-76da40d19086.gif)
+
 #### PMRF-D
 
 Research project with Dr. Talita Perciano at Lawrence Berkeley National Laboratory. This project adapts the MPI-PMRF framework to the task of denoising large images, e.g. material sample images from beamline 8.3.2 at the Advanced Light Source user facility at Berkeley Lab.
