@@ -9,11 +9,11 @@
 - Python
 
 ###### Top 5 Projects I am Most Proud of:
-1) [FoodSelect] (https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#FoodSelect)
-2) FoodSelect.io
-3) PiTank
-4) EyeSaver
-5) [PMRF-D] (https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#PMRF-D)
+1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
+2) [FoodSelect.io](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselectio)
+3) [PiTank](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pitank)
+4) [EyeSaver](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#eyesaver)
+5) [PMRF-D](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pmrf-d)
 
 #### FoodSelect 
 
