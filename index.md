@@ -53,6 +53,6 @@ Research project with Dr. Talita Perciano at Lawrence Berkeley National Laborato
 - [x] Get research experience
 - [x] Release an app and try hand at a startup
 - [x] Select and apply for Masters program (M.S. Signal & Image Processing, starting Spring 2022)
-- [] Get industry experience (interning at Microsoft this Fall)
-- [] Take an internship with a local San Diego tech company (looking at Qualcomm, Apple, Illumina, etc.)
-- [] Get hired on with a San Diego tech company
+- [ ] Get industry experience (interning at Microsoft this Fall)
+- [ ] Take an internship with a local San Diego tech company (looking at Qualcomm, Apple, Illumina, etc.)
+- [ ] Get hired on with a San Diego tech company
