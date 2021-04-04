@@ -1,4 +1,5 @@
-# Matthew Larkins ![me](images/profile_square.png)
+![me](images/profile_square.png)
+# Matthew Larkins 
 
 #### Student at UC San Diego
 
