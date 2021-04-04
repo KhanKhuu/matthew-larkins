@@ -1,12 +1,12 @@
-# Matthew Larkins
+# Matthew Larkins ![me](images/profile_square.png)
 
 #### Student at UC San Diego
 
 ###### Favorite Programming Languages:
 
-- [C++](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=c%2B%2B) (my public projects that use C++)
-- [Swift](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=swift) (my public projects that use Swift)
-- [Python](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=python) (my public projects that use Python)
+- [C++](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=c%2B%2B) (my public repos that use C++)
+- [Swift](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=swift) (my public repos that use Swift)
+- [Python](https://github.com/KhanKhuu?tab=repositories&q=&type=&language=python) (my public repos that use Python)
 
 ###### Top 5 Projects I am Most Proud of:
 1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
