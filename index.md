@@ -32,6 +32,8 @@
 
 An app that helps users avoid toxic additives in food using their phone cameras and ingredients lists or UPC codes on food packages.
 
+![FoodSelect Demo](images/FoodSelect.gif)
+
 
 
 #### FoodSelect.io
