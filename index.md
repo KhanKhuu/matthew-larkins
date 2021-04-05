@@ -22,11 +22,11 @@
 
 ### Top 5 Projects I am Most Proud of:
 
-1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselect)
-2) [FoodSelect.io](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#foodselectio)
-3) [PiTank](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pitank)
-4) [EyeSaver](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#eyesaver)
-5) [PMRF-D](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/add-index-file/index.md#pmrf-d)
+1) [FoodSelect](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/main/index.md#foodselect)
+2) [FoodSelect.io](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/main/index.md#foodselectio)
+3) [PiTank](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/main/index.md#pitank)
+4) [EyeSaver](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/main/index.md#eyesaver)
+5) [PMRF-D](https://github.com/KhanKhuu/matthew-larkins.github.io/blob/main/index.md#pmrf-d)
 
 #### FoodSelect 
 
