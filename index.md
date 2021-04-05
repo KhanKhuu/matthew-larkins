@@ -33,9 +33,10 @@
 An app that helps users avoid toxic additives in food using their phone cameras and ingredients lists or UPC codes on food packages.
 
 
+
 #### FoodSelect.io
 
-Landing page for the FoodSelect app
+[Landing page](https://foodselect.io) for the FoodSelect app ([repo](https://github.com/KhanKhuu/foodselect.io)).
 
 #### PiTank
 
