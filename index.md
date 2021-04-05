@@ -16,7 +16,7 @@
 (causes camera stream to take up entire screen on IOS devices with screen aspect ratios different from their camera aspect ratio)
 
 **Favorite Quote:**
-> Take care not to be Caesarified, or dyed in purple: it happens. So keep yourself simple, good, pure, serious, unpretentious, a friend of justice, God-fearing, kind, full of affection, strong for yor proper work. Strive hard to remain the same man that philosophy wished to make you. Revere the gods, look after men. Life is short. The one harvest of existence on earth is a godly habit of mind and social action. 
+> Take care not to be Caesarified, or dyed in purple: it happens. So keep yourself simple, good, pure, serious, unpretentious, a friend of justice, God-fearing, kind, full of affection, strong for your proper work. Strive hard to remain the same man that philosophy wished to make you. Revere the gods, look after men. Life is short. The one harvest of existence on earth is a godly habit of mind and social action. 
 >
 >\- Marcus Aurelius
 
@@ -40,7 +40,8 @@ An app that helps users avoid toxic additives in food using their phone cameras 
 
 #### PiTank
 
-A raspberry pi-powered rover with an iOS app that wife and I can use to drive around our home and view the video stream
+A raspberry pi-powered rover with an iOS app that my wife and I can use to drive around our home and view the video stream
+
 ![view_of_stream](images/view_of_stream.gif)
 ![view_of_tank](images/view_of_tank.gif)
 
